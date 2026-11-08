@@ -13,7 +13,7 @@ Hello! Check out my software:
 - [autolift](https://github.com/antichrome1/autolift) - Autofocus and lift windows on mouse hover (in Swift).
 - [nanoshot](https://github.com/antichrome1/nanoshot-rs) - A screenshotting tool for MacOS.
 
-Stack/Skills/etc:
+🟢 Stack/Skills/etc:
 
 - Languages: Rust, Flutter, C, Common Lisp, Emacs Lisp, Swift.
 
@@ -23,6 +23,6 @@ Stack/Skills/etc:
 - Domains: Network Protocols, REST APIs, Microservice Architecture,
   Event Driven Architecture, Web development, App development.
 
-Contact me: Aditya Singh <antichrome1@proton.me>
+✉️ Contact me: Aditya Singh <antichrome1@proton.me>
 
 I am open to work.
