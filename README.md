@@ -2,8 +2,7 @@ Hello! Check out my software:
 
 📦 Rust library crates:
 - [macrobat-rs](https://crates.io/crates/macrobat) - A DSL for writing legible single-arm declarative macros.
-- [anaconda-rs](https://github.com/antichrome1/anaconda-rs) - Lisp style `cond`itonals in rust (to be replaced by lispy-rs).
-- lispy-rs - WIP
+- [lispy-rs](https://github.com/antichrome1/lispy-rs) - Ports of some Common Lisp functions/macros to rust (~25 successfully ported).
 
 🧬 Emacs packages:
 - [rustc-inline-view.el](https://github.com/antichrome1/rustc-inline-view.el) - Get visual feedback on what calls got inlined (or not) by `rustc`.
