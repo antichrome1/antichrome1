@@ -23,4 +23,4 @@ Hello! Check out my software:
 
 ✉️ Contact me: Aditya Singh <antichrome1@proton.me>
 
-I am looking for full time employment, ping me if you have something available.
+**I am looking for full time employment, ping me if you have something available.**
