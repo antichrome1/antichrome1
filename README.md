@@ -4,8 +4,8 @@
 <br>
 [![My Skills](https://skillicons.dev/icons?i=typescript,swift,c,go,python,sqlite,nix,)](#)
 <br>
-https://img.shields.io/badge/Common%20Lisp-000000?style=for-the-badge
-https://img.shields.io/badge/Emacs%20Lisp-000000?style=for-the-badge
+[![](https://img.shields.io/badge/Common%20Lisp-000000?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/Emacs%20Lisp-000000?style=for-the-badge)](#)
 
 
 # My software
