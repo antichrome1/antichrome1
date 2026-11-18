@@ -3,7 +3,7 @@
 <!-- https://img.shields.io/badge/Common%20Lisp-000000?style=for-the-badge -->
 [![My Skills](https://skillicons.dev/icons?i=rust,postgres,redis,postman,docker,kafka,linux,git,bash)](#)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=typescript,swift,c,go,python,sqlite,docker,kafka,linux,git,bash,nix,)](#)
+[![My Skills](https://skillicons.dev/icons?i=typescript,swift,c,go,python,sqlite,nix,)](#)
 
 
 # My software
