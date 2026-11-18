@@ -1,6 +1,7 @@
 # Stack
 
-https://skillicons.dev/icons?i=rust,typescript,c,go,python,swift,postgres,redis,sqlite,postman,docker,kafka,linux,git,bash,nix,
+<!-- https://img.shields.io/badge/Common%20Lisp-000000?style=for-the-badge -->
+[![My Skills](https://skillicons.dev/icons?i=rust,typescript,c,go,python,swift,postgres,redis,sqlite,postman,docker,kafka,linux,git,bash,nix,)](#)
 
 
 # My software
