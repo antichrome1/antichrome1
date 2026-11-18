@@ -1,9 +1,11 @@
 # Stack
 
-<!-- https://img.shields.io/badge/Common%20Lisp-000000?style=for-the-badge -->
-[![My Skills](https://skillicons.dev/icons?i=rust,postgres,redis,postman,docker,kafka,linux,git,bash)](#)
+[![My Skills](https://skillicons.dev/icons?i=rust,postgres,redis,postman,docker,kafka,linux,git,bash,githubactions)](#)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=typescript,swift,c,go,python,sqlite,nix,)](#)
+<br>
+https://img.shields.io/badge/Common%20Lisp-000000?style=for-the-badge
+https://img.shields.io/badge/Emacs%20Lisp-000000?style=for-the-badge
 
 
 # My software
@@ -19,4 +21,6 @@
 | [lfetch](https://github.com/antichrome1/lfetch)                             | 🧬 Lisp                                                                                                          | A system information tool.                                      | 🖥️ MacOS App           |
 | [tabserve](https://github.com/antichrome1/tabserve)                         | [![Firefox Add-Ons](https://img.shields.io/badge/Firefox_Add_Ons-20123A?logo=firefoxbrowser&logoColor=white)](#) | A firefox web extension to serve http endpoint on new tab.                    | 🖥️ Firefox Extension   |
 
-✉️ Contact me: Aditya Singh <antichrome1@proton.me> or <adityasingh902@outlook.com>
+#  Contact me
+- ✉️ <antichrome1@proton.me> 
+- ✉️ <adityasingh902@outlook.com>
